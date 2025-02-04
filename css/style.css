@@ -23,7 +23,7 @@ footer {
 
 .hero-section {
     position: relative;
-    background: url('/images/header-image.png') no-repeat center center fixed;
+    background: url('./images/header-image.png') no-repeat center center fixed;
     background-size: cover;
     height: 100vh;
     display: flex;
